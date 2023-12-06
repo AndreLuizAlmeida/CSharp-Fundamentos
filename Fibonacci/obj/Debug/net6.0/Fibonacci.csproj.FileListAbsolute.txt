@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/bin/Debug/net6.0/Fibonacci
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/bin/Debug/net6.0/ref/Fibonacci.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache

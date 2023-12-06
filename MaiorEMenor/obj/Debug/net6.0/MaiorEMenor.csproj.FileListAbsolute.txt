@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/bin/Debug/net6.0/ref/MaiorEMenor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/ref/MaiorEMenor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.genruntimeconfig.cache
