@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/bin/Debug/net6.0/AntecessorSucessor
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/bin/Debug/net6.0/AntecessorSucessor.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/bin/Debug/net6.0/AntecessorSucessor.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/bin/Debug/net6.0/AntecessorSucessor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/bin/Debug/net6.0/ref/AntecessorSucessor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/bin/Debug/net6.0/AntecessorSucessor.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/ref/AntecessorSucessor.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/AntecessorSucessor/obj/Debug/net6.0/AntecessorSucessor.genruntimeconfig.cache
