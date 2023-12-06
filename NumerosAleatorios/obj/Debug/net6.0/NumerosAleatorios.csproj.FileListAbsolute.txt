@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/bin/Debug/net6.0/NumerosAleatorios
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/bin/Debug/net6.0/NumerosAleatorios.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/bin/Debug/net6.0/NumerosAleatorios.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/bin/Debug/net6.0/NumerosAleatorios.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/bin/Debug/net6.0/ref/NumerosAleatorios.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/bin/Debug/net6.0/NumerosAleatorios.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/ref/NumerosAleatorios.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/NumerosAleatorios/obj/Debug/net6.0/NumerosAleatorios.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/bin/Debug/net6.0/MediaPonderada
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/bin/Debug/net6.0/MediaPonderada.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/bin/Debug/net6.0/MediaPonderada.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/bin/Debug/net6.0/MediaPonderada.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/bin/Debug/net6.0/ref/MediaPonderada.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/bin/Debug/net6.0/MediaPonderada.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/ref/MediaPonderada.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaPonderada/obj/Debug/net6.0/MediaPonderada.genruntimeconfig.cache
