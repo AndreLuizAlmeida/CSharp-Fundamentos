@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/bin/Debug/net6.0/ManipulaçãoString
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/bin/Debug/net6.0/ManipulaçãoString.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/bin/Debug/net6.0/ManipulaçãoString.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/bin/Debug/net6.0/ManipulaçãoString.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/bin/Debug/net6.0/ref/ManipulaçãoString.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/bin/Debug/net6.0/ManipulaçãoString.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ref/ManipulaçãoString.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ManipulaçãoString/obj/Debug/net6.0/ManipulaçãoString.genruntimeconfig.cache

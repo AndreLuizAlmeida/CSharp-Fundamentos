@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/bin/Debug/net6.0/MaiorEMenorDowhile
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/bin/Debug/net6.0/MaiorEMenorDowhile.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/bin/Debug/net6.0/MaiorEMenorDowhile.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/bin/Debug/net6.0/MaiorEMenorDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/bin/Debug/net6.0/ref/MaiorEMenorDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/bin/Debug/net6.0/MaiorEMenorDowhile.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/ref/MaiorEMenorDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MaiorEMenorDowhile/obj/Debug/net6.0/MaiorEMenorDowhile.genruntimeconfig.cache

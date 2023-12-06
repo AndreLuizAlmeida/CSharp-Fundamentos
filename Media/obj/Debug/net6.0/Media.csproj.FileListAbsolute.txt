@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/bin/Debug/net6.0/Media
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/bin/Debug/net6.0/Media.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/bin/Debug/net6.0/Media.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/bin/Debug/net6.0/Media.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/bin/Debug/net6.0/ref/Media.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/bin/Debug/net6.0/Media.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/ref/Media.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Media/obj/Debug/net6.0/Media.genruntimeconfig.cache

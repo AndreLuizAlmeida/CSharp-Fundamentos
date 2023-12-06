@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/bin/Debug/net6.0/MediaDowhile
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/bin/Debug/net6.0/MediaDowhile.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/bin/Debug/net6.0/MediaDowhile.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/bin/Debug/net6.0/MediaDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/bin/Debug/net6.0/ref/MediaDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/bin/Debug/net6.0/MediaDowhile.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/ref/MediaDowhile.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/MediaDowhile/obj/Debug/net6.0/MediaDowhile.genruntimeconfig.cache
