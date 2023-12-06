@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/bin/Debug/net6.0/ParOuImpar
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/bin/Debug/net6.0/ParOuImpar.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/bin/Debug/net6.0/ParOuImpar.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/bin/Debug/net6.0/ParOuImpar.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/bin/Debug/net6.0/ref/ParOuImpar.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/bin/Debug/net6.0/ParOuImpar.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ref/ParOuImpar.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/ParOuImpar/obj/Debug/net6.0/ParOuImpar.genruntimeconfig.cache
