@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/bin/Debug/net6.0/Arrays
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/bin/Debug/net6.0/Arrays.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/bin/Debug/net6.0/ref/Arrays.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/bin/Debug/net6.0/Arrays.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/ref/Arrays.dll
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.pdb
+/home/andreluiz/RiderProjects/Fundamentos do CSharp/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
